@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+.hcolor {
+  color: cadetblue;
+}
+img {
+  height: 500px;
+  width: 400px;
+
+  background-repeat: repeat-x;
+}
+.button {
+  text-decoration: none;
+  background-color: rgb(183, 10, 42);
+  text-shadow: 20px;
+  font-size: large;
+  color: brown;
+  background-image: url(images/gitbab.png);
+}
+#rafi {
+  color: red;
+  text-align: center;
+}
